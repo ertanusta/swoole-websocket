@@ -1,0 +1,18 @@
+{
+    "name": "ertan/swoole",
+    "autoload": {
+        "psr-4": {
+            "Ertan\\Swoole\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ertanusta",
+            "email": "ertanusta@outlook.com"
+        }
+    ],
+    "require": {
+        "openswoole/core": "^22.1",
+        "openswoole/ide-helper": "~22.0.1"
+    }
+}
